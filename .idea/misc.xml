@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (telegram_bot_detImage)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5372b441-7be9-4320-9a63-3de698177e1e" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (telegram_bot_detImage)" project-jdk-type="Python SDK" />
+</project>
